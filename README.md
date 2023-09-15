@@ -51,7 +51,7 @@ Laravelパッケージのインストール<br>
 ２．phpコンテナ内で php artisan key:generate コマンドを実行してAPP_KEYを発行<br>
 ３．.envファイルのDBを変更（docker-compose.yml内のenviromentの部分に記載しています）<br>
 ＊．.envファイルを変更するときに権限エラーが表示されたらターミナル上でsudo chmod -R 777 * コマンドを実行<br><br>
-databaseのさくせい<br>
+databaseの作成<br>
 １．phpコンテナ内で php artisan migrate コマンドの実行<br>
 ２．phpコンテナ内で php artisan db:seed コマンドの実行<br><br>
 
