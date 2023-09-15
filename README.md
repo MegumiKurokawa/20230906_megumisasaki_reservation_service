@@ -28,11 +28,13 @@
 -PHP
 
 ## テーブル設計
-![table1](https://github.com/MegumiKurokawa/20230906_megumisasaki_reservation_service/assets/127080181/055f797b-840a-4728-8535-a56d4b0ea4a0)
-![table2](https://github.com/MegumiKurokawa/20230906_megumisasaki_reservation_service/assets/127080181/c3b4af4a-137f-4fd2-94d6-c8210e7a95e8)
+![Table1](https://github.com/MegumiKurokawa/20230906_megumisasaki_reservation_service/assets/127080181/23c4674f-f01c-41f5-a3b6-28b1c221665c)
+![Table2](https://github.com/MegumiKurokawa/20230906_megumisasaki_reservation_service/assets/127080181/dd1d665c-f87a-47b7-8e1d-91ad04314229)
+![Table3](https://github.com/MegumiKurokawa/20230906_megumisasaki_reservation_service/assets/127080181/9865bd70-8e5a-47f4-92f6-e0483c84c89b)
 
 ## ER図
-![ER](https://github.com/MegumiKurokawa/20230906_megumisasaki_reservation_service/assets/127080181/b63d5a7a-538a-4a18-a3dd-f64abab42436)
+![ER](https://github.com/MegumiKurokawa/20230906_megumisasaki_reservation_service/assets/127080181/e87e51e5-16c4-4f44-af89-df90309c8e89)
+
 
 
 ## 環境構築
